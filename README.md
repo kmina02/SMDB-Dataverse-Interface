@@ -2,7 +2,9 @@
 
 ## 기술 스택
 프레임워크: FastAPI
+
 파이썬 버전: Python 3.11.4
+
 데이터 분석 라이브러리: pandas
 
 ## SMDB Dataverse Project 소개
