@@ -1,11 +1,9 @@
 # SMDB Dataverse
 
 ## 기술 스택
-프레임워크: FastAPI
-
-파이썬 버전: Python 3.11.4
-
-데이터 분석 라이브러리: pandas
+1. 프레임워크: FastAPI
+2. 파이썬 버전: Python 3.11.4
+3. 데이터 분석 라이브러리: pandas
 
 ## SMDB Dataverse Project 소개
 ![image](https://github.com/kmina02/Dataverse/assets/79454352/31f7dfeb-8ae7-4f40-9cdb-e4cc48194597)
