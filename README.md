@@ -20,11 +20,11 @@
 4. 트레일러 재생: 트레일러가 메인으로 재생되어 영화의 트레일러 영상을 쉽게 볼 수 있습니다.
 
 ## 개발 결과물
-[SMDB Dataverse 웹사이트 결과물](https://smdb.dataverse.ac.kr)
+[SMDB Dataverse 웹사이트 결과물](https://smdb.dataverse.ac.kr)(SMDB: SNU Movie DataBase)
 
 영화 트레일러를 아카이빙하는 사이트를 배포하였습니다.
 
-(SMDB: SNU Movie DataBase)
+
 
 ## 기대 효과 및 활용 방안
 1. 영화를 찾는 유저들을 위한 필요한 정보 제공을 주 목적으로 하되, 트레일러 시청을 통해 재밌게 시간을 보낼 수 있는 플랫폼으로의 성장을 기대합니다.
