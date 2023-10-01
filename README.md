@@ -21,7 +21,9 @@
 
 ## 개발 결과물
 [SMDB Dataverse 웹사이트 결과물](https://smdb.dataverse.ac.kr)
+
 영화 트레일러를 아카이빙하는 사이트를 배포하였습니다.
+
 (SMDB: SNU Movie DataBase)
 
 ## 기대 효과 및 활용 방안
